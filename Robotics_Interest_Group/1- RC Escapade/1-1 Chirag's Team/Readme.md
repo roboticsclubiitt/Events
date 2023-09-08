@@ -48,4 +48,4 @@ In this competition, our team won the _**First Prize**_ by defeating all the tea
 
 
 ## Credits:
-_This project was made by [@ChiragKotian](https://github.com/ChiragKotian), [@Arpit Gupta](https://github.com/arpitguptagithub), [@Amankumar8555](https://github.com/Amankumar8555), @Sudhakar and @Manukrishna._
+_This project was made by [@ChiragKotian](https://github.com/ChiragKotian), [@Arpit Gupta](https://github.com/arpitguptagithub), [@Amankumar8555](https://github.com/Amankumar8555), [@Sudhakar](https://github.com/sudhakarv1) and @Manukrishna._
